@@ -38,7 +38,7 @@
     "keen.io": "~0.1.5",
     "knockout": "~3.5.0-rc",
     "locks": "~0.2.2",
-    "lodash": "~4.17.10",
+    "lodash": "~4.17.21",
     "memorystore": "~1.6.0",
     "mkdirp": "~0.5.1",
     "moment": "~2.22.2",
