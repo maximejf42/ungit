@@ -49,7 +49,7 @@
     "octicons": "~3.5.0",
     "opn": "~5.3.0",
     "os-homedir": "~1.0.2",
-    "passport": "~0.4.0",
+    "passport": "~0.6.0",
     "passport-local": "~1.0.0",
     "raven-js": "~3.26.3",
     "rc": "~1.2.8",
